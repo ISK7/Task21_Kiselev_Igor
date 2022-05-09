@@ -24,13 +24,11 @@ plt.plot(x, -1*y, color='tab:red')
 ```
 Теперь добавим светило   
 ```
-{
-data:[{xs = np.linspace(-1, 1, a)    
+xs = np.linspace(-1, 1, a)    
 ys = np.sqrt(1-xs**2)   
 plt.plot(xs, ys, color='tab:orange',linewidth = 5)    
 plt.plot(xs, -1*ys, color='tab:orange',linewidth = 5)
-plt.show()}]
-}
+plt.show()
 ```
 "Рисунок не идеальный, т. к. немного сплющен, но по координатам верный"
 
