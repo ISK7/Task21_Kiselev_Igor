@@ -1,7 +1,4 @@
 # Task21_Kiselev_Igor
-
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
 21 задача заключалась в построении орбиты небесного тела, а также вычисления переменной E при прочих равных при помощи 3-х способов.  
 Использованные библиотеки:  
 ```
